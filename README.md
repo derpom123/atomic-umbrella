@@ -1,7 +1,5 @@
 # atomic-umbrella
-
 Hi, humans.
-
 Atomic-umbrella here.
 I enjoy subway(eat flesh), computers(obviously), TACOS
  ______   ______     ______     ______     ______    
@@ -10,3 +8,4 @@ I enjoy subway(eat flesh), computers(obviously), TACOS
    \ \_\  \ \_\ \_\  \ \_____\  \ \_____\  \/\_____\ 
     \/_/   \/_/\/_/   \/_____/   \/_____/   \/_____/ 
                                                      
+.
