@@ -1,0 +1,8 @@
+Dice
+
+
+
+Dice is a little interactive game that an person that will stay unnamed and myself made. You roll a dice and it gives you a random number. It's nothing t go crazy about but its my first and it works. 
+					
+			
+			–Atomic-Umbrella
